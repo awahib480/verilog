@@ -6,7 +6,7 @@ module test;
     reg b;
     wire c;
 
-    ANDgate uut (
+    and_gate uut (
         .a(a),
         .b(b),
         .c(c)
