@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
-// Module Name: ANDgate
+// Module Name: and_gate
 
-module ANDgate(
+module and_gate(
     input a,
     input b,
     output c
